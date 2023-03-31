@@ -7,13 +7,13 @@
   "mostPicked": [
     {
       "_id": "asd1293uasdads1",
-      "name": "Jung Hook Sie",
-      "type": "Apartment",
+      "name": "Fittnes Life Gym",
+      "type": "Gym",
       "imageUrl": "/images/image-mostpicked-1.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
-      "price": "80",
-      "unit": "night"
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "price": "50",
+      "unit": "month"
     },
     {
       "_id": "asd1293uasdads1",
@@ -59,114 +59,114 @@
   "categories": [
     {
       "_id": "asd1293uasdads1",
-      "name": "House with beauty backyard",
+      "name": "Gym With Personal Trainer",
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
+          "name": "Deddy Corbuzier",
           "imageUrl": "/images/image-category-1.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "Indonesia",
+          "city": "Jakarta",
           "isPopular": true
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
+          "name": "Mas Utiwi",
           "imageUrl": "/images/image-category-2.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "Indonesia",
+          "city": "Jakarta",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
+          "name": "Mba Lala Lulu",
           "imageUrl": "/images/image-category-3.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "Indonesia",
+          "city": "Jakarta",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
           "name": "Grand Dhika",
           "imageUrl": "/images/image-category-4.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "Indonesia",
+          "city": "Jakarta",
           "isPopular": false
         }
       ]
     },
     {
       "_id": "asd1293uasdads1",
-      "name": "Hotels with large living room",
+      "name": "The Best Gym",
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
+          "name": "Lencana Gym",
           "imageUrl": "/images/image-category-5.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "Indonesia",
+          "city": "Yogyakarta",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
+          "name": "HeadFit Gym",
           "imageUrl": "/images/image-category-6.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "Indonesia",
+          "city": "Bogor",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
+          "name": "Arya Duta Gym",
           "imageUrl": "/images/image-category-7.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "Indonesia",
+          "city": "Bandung",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Grand Dhika",
+          "name": "Dimension Gym & Cafe",
           "imageUrl": "/images/image-category-8.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "Indonesia",
+          "city": "Jakarta",
           "isPopular": true
         }
       ]
     },
     {
       "_id": "asd1293uasdads1",
-      "name": "Apartments with kitchen set",
+      "name": "Gym With Nearest",
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
+          "name": "Mas Jon Gym",
           "imageUrl": "/images/image-category-9.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "Indonesia",
+          "city": "Depok",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
+          "name": "Bieleve Gym",
           "imageUrl": "/images/image-category-10.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "Indonesia",
+          "city": "Jakarta",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
+          "name": "Dfit Gym",
           "imageUrl": "/images/image-category-11.png",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "Indonesia",
+          "city": "Jakarta",
           "isPopular": true
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Grand Dhika",
+          "name": "Fit & Cafe Gym",
           "imageUrl": "/images/image-category-12.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "Indonesia",
+          "city": "Jakarta",
           "isPopular": false
         }
       ]
@@ -174,11 +174,11 @@
   ],
   "testimonial": {
     "_id": "asd1293uasdads1",
-    "imageUrl": "/images/testimonial-landingpages.jpg",
-    "name": "Happy Family",
+    "imageUrl": "/images/testimonial-landingpages.png",
+    "name": "Member Review",
     "rate": 4.55,
-    "content": "What a great trip with my family and I should try again next time soon ...",
-    "familyName": "Angga",
-    "familyOccupation": "Product Designer"
+    "content": "It's really nice to have the nearest GYM with bugarsia so get in fitness every day, I Should try again and again next time soon ...",
+    "familyName": "Carl",
+    "familyOccupation": "Weight Lifter"
   }
 }
